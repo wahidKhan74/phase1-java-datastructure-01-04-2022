@@ -1,7 +1,5 @@
 package com.simplilearn.linkedlist.singlylinkedlist;
 
-import java.security.spec.EncodedKeySpec;
-
 public class SinglyLinkedList {
 	
 	// create head node
